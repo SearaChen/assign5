@@ -1,0 +1,29 @@
+{
+  "firstlast": "Seara Chen",
+  "id": 260670714,
+  "course": 598,
+  "assignment": 4,
+  "renders": [
+    { "scene": "Teapot with cosine-weighted hemispherical sampling",
+      "render": "offline/teapot_cosine.exr"
+    },
+    { "scene": "Teapot with BRDF sampling",
+      "render": "offline/teapot_bsdf.exr"
+    },
+    { "scene": "Teapot with surface area sampling",
+      "render": "offline/teapot_area.exr"
+    },
+    { "scene": "Teapot with subtended solid angle sampling",
+      "render": "offline/teapot_solid_angle.exr"
+    },
+    { "scene": "Veach with emitter sampling",
+      "render": "offline/veach_emitter.exr"
+    },
+    { "scene": "Veach with BRDF sampling",
+      "render": "offline/veach_bsdf.exr"
+    },
+    { "scene": "Veach with MIS",
+      "render": "offline/veach_mis.exr"
+    }
+  ]
+}

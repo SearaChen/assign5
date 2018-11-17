@@ -1,0 +1,3 @@
+/Users/Seara/Desktop/a4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/Seara/Desktop/a4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Seara/Desktop/a4/cmake-build-debug/CMakeFiles/tinyrender.dir

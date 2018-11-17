@@ -1,0 +1,23 @@
+{
+  "firstlast": "John Doe",
+  "id": 123456789,
+  "course": 446,
+  "assignment": 3,
+  "renders": [
+    { "scene": "Ambient occlusion with spherical uniform sampling",
+      "render": "offline/spaceship_ao_sphere.exr"
+    },
+    { "scene": "Ambient occlusion with hemispherical uniform sampling",
+      "render": "offline/spaceship_ao_hemisphere.exr"
+    },
+    { "scene": "Ambient occlusion with cosine-weighted hemispherical sampling",
+      "render": "offline/spaceship_ao_cosine.exr"
+    },
+    { "scene": "Reflection occlusion",
+      "render": "offline/spaceship_ro.exr"
+    },
+    { "scene": "Screen space ambient occlusion",
+      "render": "realtime/spaceship_ssao.exr"
+    }
+  ]
+}
